@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1656573305 source:c:\users\zarei\onedrive\documents\cs\c++\ap project\user\articleevaluation\main.cpp
+	"classDeclaration.h"
+	<bits/stdc++.h>
+
+1656571607 c:\users\zarei\onedrive\documents\cs\c++\ap project\user\articleevaluation\classdeclaration.h
+	<bits/stdc++.h>
+
+1656572696 source:c:\users\zarei\onedrive\documents\cs\c++\ap project\user\articleevaluation\classimplementation.cpp
+	"classDeclaration.h"
+
+1656842897 source:c:\users\parinaz\documents\article_midterm project\articleevaluation\classimplementation.cpp
+	"classDeclaration.h"
+
+1656745924 c:\users\parinaz\documents\article_midterm project\articleevaluation\classdeclaration.h
+	<bits/stdc++.h>
+
+1656841949 source:c:\users\parinaz\documents\article_midterm project\articleevaluation\main.cpp
+	"classDeclaration.h"
+	<bits/stdc++.h>
+
+1656745924 source:c:\users\zarei\onedrive\documents\cs\c++\ap project\articleevaluation\classimplementation.cpp
+	"classDeclaration.h"
+
+1656745924 c:\users\zarei\onedrive\documents\cs\c++\ap project\articleevaluation\classdeclaration.h
+	<bits/stdc++.h>
+
+1656745994 source:c:\users\zarei\onedrive\documents\cs\c++\ap project\articleevaluation\main.cpp
+	"classDeclaration.h"
+	<bits/stdc++.h>
+
+1657091261 source:c:\users\parinaz\documents\c++\projects\article_midterm project\articleevaluation\classimplementation.cpp
+	"classDeclaration.h"
+
+1656745924 c:\users\parinaz\documents\c++\projects\article_midterm project\articleevaluation\classdeclaration.h
+	<bits/stdc++.h>
+
+1657090656 source:c:\users\parinaz\documents\c++\projects\article_midterm project\articleevaluation\main.cpp
+	"classDeclaration.h"
+	<bits/stdc++.h>
+
